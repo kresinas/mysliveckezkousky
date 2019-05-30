@@ -3,22 +3,34 @@
 
     <item
         android:id="@+id/navigation_next"
-        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:icon="@drawable/ic_chevron_left_black_24dp"
         android:title="@string/title_home"/>
 
     <item
         android:id="@+id/navigation_first"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="První"/>
+        android:icon="@drawable/ic_first_page_black_24dp"
+        android:title="@string/title_first"/>
 
+<!--
     <item
         android:id="@+id/navigation_random"
         android:icon="@drawable/ic_refresh_black_24dp"
         android:title="@string/title_dashboard"/>
+-->
 
     <item
         android:id="@+id/navigation_prev"
-        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:icon="@drawable/ic_chevron_right_black_24dp"
         android:title="@string/title_notifications"/>
+
+    <item
+        android:id="@+id/navigation_speech"
+        android:icon="@drawable/ic_hearing_black_24dp"
+        android:title="@string/title_speech"/>
+
+    <item
+        android:id="@+id/navigation_speech_stop"
+        android:icon="@drawable/ic_cancel_black_24dp"
+        android:title="@string/title_speech_stop"/>
 
 </menu>

@@ -5,13 +5,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.example.myapplication.MainActivity.INT;
+import static com.example.myapplication.MainActivity.STARTNUMBER;
 
 public class QuestionsFactory {
 
 
     public static Map<Integer, Question> getQuestions() {
-        Integer count = INT;
+        Integer count = STARTNUMBER;
         HashMap<Integer, Question> integerQuestionHashMap = new HashMap<>();
 
         for (Question question : questionsListBetter) {

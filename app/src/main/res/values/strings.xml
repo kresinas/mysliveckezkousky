@@ -4,6 +4,9 @@
     <string name="title_dashboard">Náhodná</string>
     <string name="title_notifications">Další</string>
     <string name="title_home_page">Myslivecke zkoušky: https://www.myslivecke-zkousky.cz/</string>
+    <string name="title_speech">Číst</string>
+    <string name="title_speech_stop">Stop</string>
+    <string name="title_first">První</string>
 
     <string name="title_main">Notifications</string>
     <string name="title_sub">Notifications</string>
