@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myslivecké zkoušky</string>
+    <string name="title_home">Předchozí</string>
+    <string name="title_dashboard">Náhodná</string>
+    <string name="title_notifications">Další</string>
+    <string name="title_home_page">Myslivecke zkoušky: https://www.myslivecke-zkousky.cz/</string>
+
+    <string name="title_main">Notifications</string>
+    <string name="title_sub">Notifications</string>
+    <string name="title_answer">Notifications</string>
+</resources>
